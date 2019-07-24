@@ -11,3 +11,4 @@ https://arxiv.org/pdf/1812.05271.pdf - adversarial text examples
 https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-shetty.pdf
 https://arxiv.org/pdf/1812.00151.pdf
 https://arxiv.org/pdf/1903.11900.pdf --> images
+https://medium.com/hackernoon/does-your-nlp-model-able-to-prevent-adversarial-attack-45b5ab75129c
